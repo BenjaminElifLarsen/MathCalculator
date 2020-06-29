@@ -1,0 +1,29 @@
+D:\Skrivebord\Other\Kode\Calculator\bin\Debug\Calculator.exe.config
+D:\Skrivebord\Other\Kode\Calculator\bin\Debug\Calculator.exe
+D:\Skrivebord\Other\Kode\Calculator\bin\Debug\Calculator.pdb
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\MainWindow.g.cs
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\App.g.cs
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\MainWindow.baml
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.g.resources
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.exe
+D:\Skrivebord\Other\Kode\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\App.g.cs
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\Benjamin Elif Larsen\Desktop\All-master\All-master\Calculator\obj\Debug\Calculator.pdb
